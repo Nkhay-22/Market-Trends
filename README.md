@@ -13,6 +13,9 @@
 
 ### Project Overview
  In this sales analysis report, I collated data on the performance of Adidas, a leading global sportswear brand, over the past years (2020-2021). Leveraging data analysis tools such as Microsoft Excel, I provided valuable insights into Adidas’ sales performance, market trends, and growth opportunities. This report highlights key metrics, analyses product performance, examines regional sales trends, and offers strategic recommendations to optimize sales and maintain a competitive edge in the sportswear industry.
+![image](https://github.com/user-attachments/assets/54c2a9e6-3310-4c85-b50f-a3e09c7f9355)
+
+ 
 ### Data Source
  The dataset used for this project was obtained from Kaggle named “Adidas Sales Dataset” and was converted from an XLSX file to a CSV file for easier handling. This dataset consists of 9652 rows and 14 Columns in total.
  It includes details such as the retailer, number of units sold, total sales revenue, location of sales, type of product sold, and other relevant information. 
@@ -36,6 +39,8 @@ After the data was properly cleaned and prepared, exploratory data analysis (EDA
 - Which months or years had the highest and lowest sales figures?
 - Which products are generating the highest sales revenue?
 - Which region recorded the highest sales?
+![image](https://github.com/user-attachments/assets/e5f3c4b5-5325-4d5a-96c6-9a20cb26f95e)
+
 
 ### Insights
 The analysis results are summarised as follows:
