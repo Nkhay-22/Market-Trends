@@ -3,13 +3,13 @@
 
 ## Table of Contents
 
-- [Project Overview](Project-Overview)
-- [Data Source](Data-Source)
-- [Analysis Tools Used](Analysis-Tools-Used)
-- [Data Cleaning and Preparation](Data-Cleaning-and-Preparation)
-- [Exploratory Data Analysis](Exploratory-Data-Analysis)
-- [Insights](Inights)
-- [Recommendations](Recommendations)
+- [Project Overview](project-Overview)
+- [Data Source](data-Source)
+- [Analysis Tools Used](analysis-Tools-Used)
+- [Data Cleaning and Preparation](data-Cleaning-and-Preparation)
+- [Exploratory Data Analysis](exploratory-Data-Analysis)
+- [Insights](inights)
+- [Recommendations](recommendations)
 
 ### Project Overview
  In this sales analysis report, I collated data on the performance of Adidas, a leading global sportswear brand, over the past years (2020-2021). Leveraging data analysis tools such as Microsoft Excel, I provided valuable insights into Adidas’ sales performance, market trends, and growth opportunities. This report highlights key metrics, analyses product performance, examines regional sales trends, and offers strategic recommendations to optimize sales and maintain a competitive edge in the sportswear industry.
